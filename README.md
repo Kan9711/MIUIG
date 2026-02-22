@@ -16,7 +16,7 @@
 
 2. **Клонируйте репозиторий**:
    ```bash
-   git clone [https://github.com/Kan9711/MIUIG.git](https://github.com/Kan9711/MIUIG.git)
+   git clone https://github.com/Kan9711/MIUIG.git
    cd MIUIG
 
 3. **Сделайте скрипт исполняемым и запустите**:
